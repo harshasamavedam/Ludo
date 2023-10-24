@@ -1,0 +1,24 @@
+.hor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.ver{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around
+}
+.numsty{
+    text-decoration: line-through;
+    background-color: aqua;
+    
+}
+.boxst{
+    height:50px;
+    width:50px;
+    margin:15px
+}
+.df{
+    display: l;
+}

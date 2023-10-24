@@ -1,0 +1,12 @@
+.Lud{
+    background-color: blueviolet;
+    display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+}
+.subcon{
+    background-color: crimson;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
